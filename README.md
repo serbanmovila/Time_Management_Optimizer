@@ -1,0 +1,3 @@
+# Time_Management_Optimizer
+
+This is an application developed for the Bachelor’s Degree at FEAA. Using the fundamentals of the Simplex algorithm, I have created an application that outputs the optimal way of spending time on various activities, within a given time frame. The algorithm employs user input, such as time frame or priorities, but it also uses some basic, common-sensical restrictions regarding time spent on activities (i.e. one cannot sleep less than 4 hours or more than 10 hours). The application was built in Visual Studio, and it relies on cascading forms, based on validity of the user’s input. It also implements features like “login”, “tutorial” or “start over” functions.
